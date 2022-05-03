@@ -2,7 +2,7 @@
 ## Git test
 
 **BOLD TEXT**
-*Italic text**
+**Italic text**
 ***BOLD and Italic***
 
 ---
@@ -16,4 +16,5 @@
 
 	BOX
 
-|indent
+*indent
+**content
